@@ -55,3 +55,5 @@ bot.run(TOKEN)
 
 #this is a comment from your boy Bikk3l
 #and another one
+#lmao
+#hallo 
